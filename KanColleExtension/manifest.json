@@ -6,7 +6,7 @@
 		"tabs",
 		"<all_urls>"
 	],
-	"icons": { "128": "zekamashi.png" },
+	"icons": { "128": "Icon1_128.png" },
 	"browser_action": {
 		"default_icon": "fuel.png"
 	},
